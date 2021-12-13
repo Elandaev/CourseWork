@@ -1,0 +1,3 @@
+/Users/pavelelandaev/Documents/GitHub/CourseWork/build/CMakeFiles/CourseWork.dir
+/Users/pavelelandaev/Documents/GitHub/CourseWork/build/CMakeFiles/ALL_BUILD.dir
+/Users/pavelelandaev/Documents/GitHub/CourseWork/build/CMakeFiles/ZERO_CHECK.dir
